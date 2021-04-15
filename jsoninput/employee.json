@@ -1,0 +1,14 @@
+{
+	"firstname": "Vishal",
+	"lastname": "Lokhande",
+	"Address": [
+		{
+			"City": "Pune",
+			"State": "Maharashtra"
+		},
+		{
+			"City": "Madhapur",
+			"State": "Hydrabad"
+		}
+	]
+}
